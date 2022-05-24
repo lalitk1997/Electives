@@ -1,0 +1,4 @@
+Command : Explaination
+pwd -> Current Directory
+ls -> Files available in current directory.
+mkdir "dir-name" -> Use to create directory.

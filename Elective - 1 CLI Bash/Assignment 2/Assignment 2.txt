@@ -1,0 +1,18 @@
+date -> display date and time
+cal -> display current month calendar
+df -> details about disk-space utilization (HDD or SSD)
+free -> display amount of free memory (RAM)
+pwd -> print working directory
+cd -> change directory
+cd /user/bin -> absolute path
+cd bin -> relative path
+cd - -> previous working directory
+cd ~ -> home directory
+ls -> list all files and folder in current working directory
+cd .. -> navigate to parent directory
+
+Flags
+Commands also take parameters called as flag.
+e.g. date -u -> display date and time (universal standard time)
+man <command> -> to know all the flags associated to that command and their functionality
+ 
